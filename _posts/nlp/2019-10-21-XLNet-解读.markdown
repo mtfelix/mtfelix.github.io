@@ -1,0 +1,12 @@
+---
+title: "XLNet论文解读"
+subtitle: "原标题：Generalized Autoregressive Pretraining for Language Understanding"
+layout: post
+author: "mtfelix"
+header-style: text
+tags:
+  - Paper reading
+---
+
+今天我们来解读下facebook的一个工作：
+XLNet: Generalized Autoregressive Pretraining for Language Understanding

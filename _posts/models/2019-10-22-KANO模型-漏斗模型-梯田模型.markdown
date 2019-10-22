@@ -1,0 +1,12 @@
+---
+title: "KANO模型和漏斗模型、梯田模型之间的联系"
+subtitle: "一切事物之间都是有联系的，包括模型之间"
+layout: post
+author: "mtfelix"
+header-style: text
+tags:
+  - 人生の模型
+---
+（占坑）
+今天来总结一个感悟。
+
